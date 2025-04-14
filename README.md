@@ -1,2 +1,2 @@
-# AI-Revenue-Optimization-Widget-for-Aesthetics-Practices
+# AI-ROI-Widget
 Synced from Magic Patterns
